@@ -1,1 +1,3 @@
-# -IoT-based-Smart-Agriculture-Monitoring-System
+# IoT-based-Smart-Agriculture-Monitoring-System
+
+we are going to build a Smart Farming System using IoT. The objective of this project is to offer assistance to farmers in getting Live Data (Temperature, Humidity, Soil Moisture, Soil Temperature) for efficient environment monitoring which will enable them to increase their overall yield and quality of products. This smart agriculture using IoT system powered by NodeMCU consists of a DHT11 sensor, Moisture sensor, DS18B20 Sensor Probe, LDR, Water Pump, and 12V led strip. When the IoT-based agriculture monitoring system starts, it checks the Soil moisture, temperature, humidity, and soil temperature. It then sends this data to the IoT cloud for live monitoring. If the soil moisture goes below a certain level, it automatically starts the water pump. 
